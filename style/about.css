@@ -1,0 +1,18 @@
+footer{
+    background-color: grey;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    color: honeydew;
+    width: 100%;
+    text-align: center;
+    
+    
+}
+header{
+    background-color: gray;
+}
+.input-task{
+    margin: auto; 
+    width: 220px;
+}
